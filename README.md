@@ -14,4 +14,7 @@ Oksuz, I., Cruz, G., Clough, J., Bustin, A., Fuin, N., Botnar, R.M., Prieto,C., 
 Deep RNN models:
 C Litrico, "Deep Recurrent Neural Networks for Magnetic Resonance Fingerprinting", 2020.
 
+Furthermore, data was acquired using an IR-bSSFP via the Cover BLoch response Iterative Projection (CoverBLIP) method: https://github.com/mgolbabaee/CoverBLIP
+M Golbabaee, Z Chen, Y Wiaux, M Davies, “CoverBLIP: accelerated and scalable iterative matched-filtering for Magnetic Resonance Fingerprint reconstruction”, arxiv, 2018. (Extended version)
+
 © C Litrico (2020)
