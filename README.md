@@ -17,11 +17,19 @@ C Litrico, "Deep Recurrent Neural Networks for Magnetic Resonance Fingerprinting
 Furthermore, data was acquired using an IR-bSSFP via the Cover BLoch response Iterative Projection (CoverBLIP) method: https://github.com/mgolbabaee/CoverBLIP
 M Golbabaee, Z Chen, Y Wiaux, M Davies, “CoverBLIP: accelerated and scalable iterative matched-filtering for Magnetic Resonance Fingerprint reconstruction”, arxiv, 2018. (Extended version)
 
-Training and testing data can be downloaded from:
+
+# Training and testing data can be downloaded from:
+
 t1t2rfdict: https://drive.google.com/file/d/12omFIZC9ThSabHOgIR5VtLWpwWkPviUI/view?usp=sharing
+
 brain_phantom: https://drive.google.com/file/d/1p5yVTBrzzi_AjOBtFiMZQHBGyJKd70UO/view?usp=sharing
 
-Pre-trained models can be downloaded from:
+
+# Pre-trained models can be downloaded from:
+
 https://drive.google.com/drive/folders/13qOWR3GNLdxffKpVHat2wpyQ2ZTiJt6J?usp=sharing
+
+
+
 
 © C Litrico (2020)
