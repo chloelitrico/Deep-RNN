@@ -21,5 +21,7 @@ Training and testing data can be downloaded from:
 t1t2rfdict: https://drive.google.com/file/d/12omFIZC9ThSabHOgIR5VtLWpwWkPviUI/view?usp=sharing
 brain_phantom: https://drive.google.com/file/d/1p5yVTBrzzi_AjOBtFiMZQHBGyJKd70UO/view?usp=sharing
 
+Pre-trained models can be downloaded from:
+https://drive.google.com/drive/folders/13qOWR3GNLdxffKpVHat2wpyQ2ZTiJt6J?usp=sharing
 
 © C Litrico (2020)
